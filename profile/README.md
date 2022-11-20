@@ -1,6 +1,6 @@
 # AkkeyLab, Inc.
 
-![](mona-whisper.gif)
+![](https://github.githubassets.com/images/mona-whisper.gif)
 
 2022/10: The founding of the company 🏢  
 2022/09: "AkkeyLab" was registered as a trademark in Japan 🗼  
